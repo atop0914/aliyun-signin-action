@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: ImYrS/aliyun-auto-signin@main
         with:
-          REFRESH_TOKENS: '2ad0928c9a554ab1af700b1941f3aca6'
+          REFRESH_TOKENS: '6adde69bf68d4ad99768db8638f43b3f'
           GP_TOKEN: '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'
           PUSH_TYPES: 'PushPlus'
           DO_NOT_REWARD: 'false'
